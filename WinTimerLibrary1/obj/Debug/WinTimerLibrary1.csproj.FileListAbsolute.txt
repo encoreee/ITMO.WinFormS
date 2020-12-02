@@ -1,0 +1,6 @@
+D:\Александр\Repository\ITMO.WinForms\WinTimerLibrary1\bin\Debug\WinTimerLibrary1.dll
+D:\Александр\Repository\ITMO.WinForms\WinTimerLibrary1\bin\Debug\WinTimerLibrary1.pdb
+D:\Александр\Repository\ITMO.WinForms\WinTimerLibrary1\obj\Debug\WinTimerLibrary1.csprojAssemblyReference.cache
+D:\Александр\Repository\ITMO.WinForms\WinTimerLibrary1\obj\Debug\WinTimerLibrary1.csproj.CoreCompileInputs.cache
+D:\Александр\Repository\ITMO.WinForms\WinTimerLibrary1\obj\Debug\WinTimerLibrary1.dll
+D:\Александр\Repository\ITMO.WinForms\WinTimerLibrary1\obj\Debug\WinTimerLibrary1.pdb

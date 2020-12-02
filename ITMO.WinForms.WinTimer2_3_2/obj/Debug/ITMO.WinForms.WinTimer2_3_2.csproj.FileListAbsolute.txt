@@ -1,0 +1,11 @@
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\bin\Debug\ITMO.WinForms.WinTimer2_3_2.exe.config
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\bin\Debug\ITMO.WinForms.WinTimer2_3_2.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\bin\Debug\ITMO.WinForms.WinTimer2_3_2.pdb
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\obj\Debug\ITMO.WinForms.WinTimer2_3_2.csprojAssemblyReference.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\obj\Debug\ITMO.WinForms.WinTimer2_3_2.Properties.Resources.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\obj\Debug\ITMO.WinForms.WinTimer2_3_2.UserControlTimer2.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\obj\Debug\ITMO.WinForms.WinTimer2_3_2.csproj.GenerateResource.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\obj\Debug\ITMO.WinForms.WinTimer2_3_2.csproj.CoreCompileInputs.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\obj\Debug\ITMO.WinForms.WinTimer2_3_2.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\obj\Debug\ITMO.WinForms.WinTimer2_3_2.pdb
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\obj\Debug\ITMO.WinForms.WinTimer2_3_2.Form1.resources

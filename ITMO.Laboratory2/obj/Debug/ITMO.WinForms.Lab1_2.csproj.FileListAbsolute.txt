@@ -1,0 +1,11 @@
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.Laboratory2\bin\Debug\ITMO.Laboratory2.exe.config
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.Laboratory2\bin\Debug\ITMO.Laboratory2.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.Laboratory2\bin\Debug\ITMO.Laboratory2.pdb
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.Laboratory2\obj\Debug\ITMO.WinForms.Lab1_2.csprojAssemblyReference.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.Laboratory2\obj\Debug\ITMO.Laboratory2.Form1.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.Laboratory2\obj\Debug\ITMO.Laboratory2.nForm.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.Laboratory2\obj\Debug\ITMO.Laboratory2.Properties.Resources.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.Laboratory2\obj\Debug\ITMO.WinForms.Lab1_2.csproj.GenerateResource.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.Laboratory2\obj\Debug\ITMO.WinForms.Lab1_2.csproj.CoreCompileInputs.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.Laboratory2\obj\Debug\ITMO.Laboratory2.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.Laboratory2\obj\Debug\ITMO.Laboratory2.pdb

@@ -1,0 +1,11 @@
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\MdiApplication\bin\Debug\MdiApplication.exe.config
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\MdiApplication\bin\Debug\MdiApplication.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\MdiApplication\bin\Debug\MdiApplication.pdb
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\MdiApplication\obj\Debug\ITMO.WinForms.Lab1_4.csprojAssemblyReference.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\MdiApplication\obj\Debug\MdiApplication.ChildForm.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\MdiApplication\obj\Debug\MdiApplication.ParentForm.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\MdiApplication\obj\Debug\MdiApplication.Properties.Resources.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\MdiApplication\obj\Debug\ITMO.WinForms.Lab1_4.csproj.GenerateResource.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\MdiApplication\obj\Debug\ITMO.WinForms.Lab1_4.csproj.CoreCompileInputs.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\MdiApplication\obj\Debug\MdiApplication.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\MdiApplication\obj\Debug\MdiApplication.pdb

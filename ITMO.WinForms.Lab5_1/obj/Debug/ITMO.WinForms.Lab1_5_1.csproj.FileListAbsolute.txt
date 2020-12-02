@@ -1,0 +1,9 @@
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Lab5_1\bin\Debug\ITMO.WinForms.Lab5_1.exe.config
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Lab5_1\bin\Debug\ITMO.WinForms.Lab5_1.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Lab5_1\bin\Debug\ITMO.WinForms.Lab5_1.pdb
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Lab5_1\obj\Debug\ITMO.WinForms.Lab1_5_1.csprojAssemblyReference.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Lab5_1\obj\Debug\ITMO.WinForms.Lab5_1.Properties.Resources.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Lab5_1\obj\Debug\ITMO.WinForms.Lab1_5_1.csproj.GenerateResource.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Lab5_1\obj\Debug\ITMO.WinForms.Lab1_5_1.csproj.CoreCompileInputs.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Lab5_1\obj\Debug\ITMO.WinForms.Lab5_1.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Lab5_1\obj\Debug\ITMO.WinForms.Lab5_1.pdb

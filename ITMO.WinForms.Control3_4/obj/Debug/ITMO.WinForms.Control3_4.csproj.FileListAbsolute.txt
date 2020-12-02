@@ -1,0 +1,10 @@
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Control3_4\bin\Debug\ITMO.WinForms.Control3_4.exe.config
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Control3_4\bin\Debug\ITMO.WinForms.Control3_4.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Control3_4\bin\Debug\ITMO.WinForms.Control3_4.pdb
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Control3_4\obj\Debug\ITMO.WinForms.Control3_4.csprojAssemblyReference.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Control3_4\obj\Debug\ITMO.WinForms.Control3_4.Properties.Resources.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Control3_4\obj\Debug\ITMO.WinForms.Control3_4.csproj.GenerateResource.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Control3_4\obj\Debug\ITMO.WinForms.Control3_4.csproj.CoreCompileInputs.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Control3_4\obj\Debug\ITMO.WinForms.Control3_4.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Control3_4\obj\Debug\ITMO.WinForms.Control3_4.pdb
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Control3_4\obj\Debug\ITMO.WinForms.Control3_4.Form1.resources

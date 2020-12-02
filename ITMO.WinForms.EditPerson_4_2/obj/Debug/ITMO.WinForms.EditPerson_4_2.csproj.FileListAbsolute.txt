@@ -1,0 +1,10 @@
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\obj\Debug\ITMO.WinForms.EditPerson_4_2.Properties.Resources.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\obj\Debug\ITMO.WinForms.EditPerson_4_2.csproj.GenerateResource.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\obj\Debug\ITMO.WinForms.EditPerson_4_2.csproj.CoreCompileInputs.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\bin\Debug\ITMO.WinForms.EditPerson_4_2.exe.config
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\bin\Debug\ITMO.WinForms.EditPerson_4_2.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\bin\Debug\ITMO.WinForms.EditPerson_4_2.pdb
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\obj\Debug\ITMO.WinForms.EditPerson_4_2.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\obj\Debug\ITMO.WinForms.EditPerson_4_2.pdb
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\obj\Debug\ITMO.WinForms.EditPerson_4_2.MainForm.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\obj\Debug\ITMO.WinForms.EditPerson_4_2.EditPersonForm.resources

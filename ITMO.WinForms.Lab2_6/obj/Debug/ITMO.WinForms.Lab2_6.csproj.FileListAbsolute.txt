@@ -1,0 +1,9 @@
+D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.Lab2_6\bin\Debug\ITMO.WinForms.Lab2_6.exe.config
+D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.Lab2_6\bin\Debug\ITMO.WinForms.Lab2_6.exe
+D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.Lab2_6\bin\Debug\ITMO.WinForms.Lab2_6.pdb
+D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.Lab2_6\obj\Debug\ITMO.WinForms.Lab2_6.Form1.resources
+D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.Lab2_6\obj\Debug\ITMO.WinForms.Lab2_6.Properties.Resources.resources
+D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.Lab2_6\obj\Debug\ITMO.WinForms.Lab2_6.csproj.GenerateResource.cache
+D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.Lab2_6\obj\Debug\ITMO.WinForms.Lab2_6.csproj.CoreCompileInputs.cache
+D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.Lab2_6\obj\Debug\ITMO.WinForms.Lab2_6.exe
+D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.Lab2_6\obj\Debug\ITMO.WinForms.Lab2_6.pdb
