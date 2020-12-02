@@ -12,9 +12,15 @@ namespace ITMO.WinForms.EditPerson_4_2
 {
     public partial class EditPersonForm : Form
     {
-        public EditPersonForm()
+        Person p;
+        public EditPersonForm(Person p)
         {
             InitializeComponent();
+
+            this.p = p;
+            this.FirstName = p.FirstName;
+            this.LastName = p.LastName;
+            this.Age = p.Age;
         }
         public string FirstName
         {
@@ -30,6 +36,14 @@ namespace ITMO.WinForms.EditPerson_4_2
         {
             get { return (int)ageNumericUpDown.Value; }
             set { ageNumericUpDown.Value = value; }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            p.FirstName = this.FirstName;
+            p.LastName = this.LastName;
+            p.Age = this.Age;
+            MessageBox.Show("Сотрудник: " + p.ToString());
         }
     }
 }

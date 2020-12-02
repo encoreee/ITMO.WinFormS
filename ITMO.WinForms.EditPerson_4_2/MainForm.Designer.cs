@@ -1,4 +1,6 @@
 ﻿
+using System.Windows.Forms;
+
 namespace ITMO.WinForms.EditPerson_4_2
 {
     partial class MainForm
@@ -35,6 +37,8 @@ namespace ITMO.WinForms.EditPerson_4_2
             this.age = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.button3 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // personsListView
@@ -47,10 +51,11 @@ namespace ITMO.WinForms.EditPerson_4_2
             this.personsListView.HideSelection = false;
             this.personsListView.Location = new System.Drawing.Point(0, 0);
             this.personsListView.Name = "personsListView";
-            this.personsListView.Size = new System.Drawing.Size(374, 293);
+            this.personsListView.Size = new System.Drawing.Size(374, 139);
             this.personsListView.TabIndex = 0;
             this.personsListView.UseCompatibleStateImageBehavior = false;
             this.personsListView.View = System.Windows.Forms.View.Details;
+            this.personsListView.VirtualMode = true;
             // 
             // Name
             // 
@@ -69,7 +74,7 @@ namespace ITMO.WinForms.EditPerson_4_2
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(12, 299);
+            this.button1.Location = new System.Drawing.Point(12, 145);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 1;
@@ -79,7 +84,7 @@ namespace ITMO.WinForms.EditPerson_4_2
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(12, 328);
+            this.button2.Location = new System.Drawing.Point(287, 145);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 2;
@@ -87,17 +92,39 @@ namespace ITMO.WinForms.EditPerson_4_2
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
+            // richTextBox1
+            // 
+            this.richTextBox1.Location = new System.Drawing.Point(12, 210);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.Size = new System.Drawing.Size(350, 280);
+            this.richTextBox1.TabIndex = 3;
+            this.richTextBox1.Text = "";
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(12, 175);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(75, 23);
+            this.button3.TabIndex = 4;
+            this.button3.Text = "Show list";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
             // MainForm
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.ClientSize = new System.Drawing.Size(374, 361);
+            this.ClientSize = new System.Drawing.Size(374, 502);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.personsListView);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+        //    this.Name = "MainForm";
             this.Text = "Empleye list";
             this.WindowState = System.Windows.Forms.FormWindowState.Minimized;
             this.ResumeLayout(false);
+            personsListView.RetrieveVirtualItem += new RetrieveVirtualItemEventHandler(personsListView_RetrieveVirtualItem);
 
         }
 
@@ -109,6 +136,8 @@ namespace ITMO.WinForms.EditPerson_4_2
         private System.Windows.Forms.ColumnHeader age;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.Button button3;
     }
 }
 

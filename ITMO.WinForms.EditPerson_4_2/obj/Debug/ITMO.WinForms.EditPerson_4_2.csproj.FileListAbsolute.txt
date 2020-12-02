@@ -8,3 +8,14 @@ C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\obj\De
 C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\obj\Debug\ITMO.WinForms.EditPerson_4_2.pdb
 C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\obj\Debug\ITMO.WinForms.EditPerson_4_2.MainForm.resources
 C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\obj\Debug\ITMO.WinForms.EditPerson_4_2.EditPersonForm.resources
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\obj\Debug\ITMO.WinForms.EditPerson_4_2.csprojAssemblyReference.cache
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\obj\Debug\ITMO.WinForms.EditPerson_4_2.MainForm.resources
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\obj\Debug\ITMO.WinForms.EditPerson_4_2.EditPersonForm.resources
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\obj\Debug\ITMO.WinForms.EditPerson_4_2.Properties.Resources.resources
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\obj\Debug\ITMO.WinForms.EditPerson_4_2.csproj.GenerateResource.cache
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\obj\Debug\ITMO.WinForms.EditPerson_4_2.csproj.CoreCompileInputs.cache
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\obj\Debug\ITMO.WinForms.EditPerson_4_2.exe
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\obj\Debug\ITMO.WinForms.EditPerson_4_2.pdb
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\bin\Debug\ITMO.WinForms.EditPerson_4_2.exe.config
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\bin\Debug\ITMO.WinForms.EditPerson_4_2.exe
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.EditPerson_4_2\bin\Debug\ITMO.WinForms.EditPerson_4_2.pdb
