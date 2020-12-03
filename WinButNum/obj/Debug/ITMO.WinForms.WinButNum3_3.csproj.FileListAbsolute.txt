@@ -1,0 +1,10 @@
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\WinButNum\bin\Debug\WinButNum.exe.config
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\WinButNum\bin\Debug\WinButNum.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\WinButNum\bin\Debug\WinButNum.pdb
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\WinButNum\obj\Debug\ITMO.WinForms.WinButNum3_3.csprojAssemblyReference.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\WinButNum\obj\Debug\WinButNum.Form1.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\WinButNum\obj\Debug\WinButNum.Properties.Resources.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\WinButNum\obj\Debug\ITMO.WinForms.WinButNum3_3.csproj.GenerateResource.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\WinButNum\obj\Debug\ITMO.WinForms.WinButNum3_3.csproj.CoreCompileInputs.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\WinButNum\obj\Debug\WinButNum.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\WinButNum\obj\Debug\WinButNum.pdb
