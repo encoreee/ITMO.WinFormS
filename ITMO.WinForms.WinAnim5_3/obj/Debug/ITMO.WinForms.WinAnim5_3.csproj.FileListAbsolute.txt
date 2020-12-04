@@ -1,0 +1,10 @@
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinAnim5_3\bin\Debug\ITMO.WinForms.WinAnim5_3.exe.config
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinAnim5_3\bin\Debug\ITMO.WinForms.WinAnim5_3.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinAnim5_3\bin\Debug\ITMO.WinForms.WinAnim5_3.pdb
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinAnim5_3\obj\Debug\ITMO.WinForms.WinAnim5_3.csprojAssemblyReference.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinAnim5_3\obj\Debug\ITMO.WinForms.WinAnim5_3.Form1.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinAnim5_3\obj\Debug\ITMO.WinForms.WinAnim5_3.Properties.Resources.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinAnim5_3\obj\Debug\ITMO.WinForms.WinAnim5_3.csproj.GenerateResource.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinAnim5_3\obj\Debug\ITMO.WinForms.WinAnim5_3.csproj.CoreCompileInputs.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinAnim5_3\obj\Debug\ITMO.WinForms.WinAnim5_3.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinAnim5_3\obj\Debug\ITMO.WinForms.WinAnim5_3.pdb

@@ -1,0 +1,15 @@
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.PDFReader.5_2\bin\Debug\ITMO.WinForms.PDFReader.5_2.exe.config
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.PDFReader.5_2\bin\Debug\ITMO.WinForms.PDFReader.5_2.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.PDFReader.5_2\bin\Debug\ITMO.WinForms.PDFReader.5_2.pdb
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.PDFReader.5_2\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.PDFReader.5_2\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.PDFReader.5_2\obj\Debug\ITMO.WinForms.PDFReader.5_2.csprojAssemblyReference.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.PDFReader.5_2\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.PDFReader.5_2\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.PDFReader.5_2\obj\Debug\ITMO.WinForms.PDFReader.5_2.csproj.ResolveComReference.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.PDFReader.5_2\obj\Debug\ITMO.WinForms.PDFReader._5_2.Form1.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.PDFReader.5_2\obj\Debug\ITMO.WinForms.PDFReader._5_2.Properties.Resources.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.PDFReader.5_2\obj\Debug\ITMO.WinForms.PDFReader.5_2.csproj.GenerateResource.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.PDFReader.5_2\obj\Debug\ITMO.WinForms.PDFReader.5_2.csproj.CoreCompileInputs.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.PDFReader.5_2\obj\Debug\ITMO.WinForms.PDFReader.5_2.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.PDFReader.5_2\obj\Debug\ITMO.WinForms.PDFReader.5_2.pdb

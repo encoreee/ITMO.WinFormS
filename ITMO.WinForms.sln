@@ -45,6 +45,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinForms.Lab4_4", "ITM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinForms.Lab5-1", "ITMO.WinForms.Lab5-1\ITMO.WinForms.Lab5-1.csproj", "{7CD72754-BB49-42C7-8C22-5824E8F4F919}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinForms.PDFReader.5_2", "ITMO.WinForms.PDFReader.5_2\ITMO.WinForms.PDFReader.5_2.csproj", "{FEDAC8B3-C193-4E6B-BD45-B822E967A432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinForms.WinAnim5_3", "ITMO.WinForms.WinAnim5_3\ITMO.WinForms.WinAnim5_3.csproj", "{F3DCE275-8B11-4883-A310-3D0E9480AC7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.WinForms.WinGrafSinLine6_1", "ITMO.WinForms.WinGrafSinLine6_1\ITMO.WinForms.WinGrafSinLine6_1.csproj", "{DC1F2463-D735-4D0D-BB0E-B099023FE0A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +141,18 @@ Global
 		{7CD72754-BB49-42C7-8C22-5824E8F4F919}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CD72754-BB49-42C7-8C22-5824E8F4F919}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CD72754-BB49-42C7-8C22-5824E8F4F919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEDAC8B3-C193-4E6B-BD45-B822E967A432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDAC8B3-C193-4E6B-BD45-B822E967A432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDAC8B3-C193-4E6B-BD45-B822E967A432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDAC8B3-C193-4E6B-BD45-B822E967A432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3DCE275-8B11-4883-A310-3D0E9480AC7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3DCE275-8B11-4883-A310-3D0E9480AC7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3DCE275-8B11-4883-A310-3D0E9480AC7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3DCE275-8B11-4883-A310-3D0E9480AC7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC1F2463-D735-4D0D-BB0E-B099023FE0A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1F2463-D735-4D0D-BB0E-B099023FE0A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1F2463-D735-4D0D-BB0E-B099023FE0A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1F2463-D735-4D0D-BB0E-B099023FE0A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,11 @@
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinGrafSinLine6_1\obj\Debug\ITMO.WinForms.WinGrafSinLine6_1.csprojAssemblyReference.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinGrafSinLine6_1\obj\Debug\ITMO.WinForms.WinGrafSinLine6_1.Form1.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinGrafSinLine6_1\obj\Debug\ITMO.WinForms.WinGrafSinLine6_1.Properties.Resources.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinGrafSinLine6_1\obj\Debug\ITMO.WinForms.WinGrafSinLine6_1.csproj.GenerateResource.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinGrafSinLine6_1\obj\Debug\ITMO.WinForms.WinGrafSinLine6_1.csproj.CoreCompileInputs.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinGrafSinLine6_1\bin\Debug\ITMO.WinForms.WinGrafSinLine6_1.exe.config
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinGrafSinLine6_1\bin\Debug\ITMO.WinForms.WinGrafSinLine6_1.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinGrafSinLine6_1\bin\Debug\ITMO.WinForms.WinGrafSinLine6_1.pdb
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinGrafSinLine6_1\obj\Debug\ITMO.WinForms.WinGrafSinLine6_1.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinGrafSinLine6_1\obj\Debug\ITMO.WinForms.WinGrafSinLine6_1.pdb
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinGrafSinLine6_1\obj\Debug\ITMO.WinForms.WinGrafSinLine6_1.edit.resources
