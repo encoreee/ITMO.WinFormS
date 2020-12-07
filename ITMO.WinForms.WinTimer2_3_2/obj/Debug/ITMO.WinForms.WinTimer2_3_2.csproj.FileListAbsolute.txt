@@ -9,3 +9,14 @@ C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\obj\Deb
 C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\obj\Debug\ITMO.WinForms.WinTimer2_3_2.exe
 C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\obj\Debug\ITMO.WinForms.WinTimer2_3_2.pdb
 C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\obj\Debug\ITMO.WinForms.WinTimer2_3_2.Form1.resources
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\bin\Debug\ITMO.WinForms.WinTimer2_3_2.exe.config
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\bin\Debug\ITMO.WinForms.WinTimer2_3_2.exe
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\bin\Debug\ITMO.WinForms.WinTimer2_3_2.pdb
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\obj\Debug\ITMO.WinForms.WinTimer2_3_2.csprojAssemblyReference.cache
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\obj\Debug\ITMO.WinForms.WinTimer2_3_2.Form1.resources
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\obj\Debug\ITMO.WinForms.WinTimer2_3_2.Properties.Resources.resources
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\obj\Debug\ITMO.WinForms.WinTimer2_3_2.UserControlTimer2.resources
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\obj\Debug\ITMO.WinForms.WinTimer2_3_2.csproj.GenerateResource.cache
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\obj\Debug\ITMO.WinForms.WinTimer2_3_2.csproj.CoreCompileInputs.cache
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\obj\Debug\ITMO.WinForms.WinTimer2_3_2.exe
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.WinTimer2_3_2\obj\Debug\ITMO.WinForms.WinTimer2_3_2.pdb

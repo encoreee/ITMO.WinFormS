@@ -8,3 +8,13 @@ C:\Users\RaikovAN\source\repos\ITMO.WinFormS\WinButNum\obj\Debug\ITMO.WinForms.W
 C:\Users\RaikovAN\source\repos\ITMO.WinFormS\WinButNum\obj\Debug\ITMO.WinForms.WinButNum3_3.csproj.CoreCompileInputs.cache
 C:\Users\RaikovAN\source\repos\ITMO.WinFormS\WinButNum\obj\Debug\WinButNum.exe
 C:\Users\RaikovAN\source\repos\ITMO.WinFormS\WinButNum\obj\Debug\WinButNum.pdb
+D:\Александр\Repository\ITMO.WinFormS\WinButNum\bin\Debug\WinButNum.exe.config
+D:\Александр\Repository\ITMO.WinFormS\WinButNum\bin\Debug\WinButNum.exe
+D:\Александр\Repository\ITMO.WinFormS\WinButNum\bin\Debug\WinButNum.pdb
+D:\Александр\Repository\ITMO.WinFormS\WinButNum\obj\Debug\ITMO.WinForms.WinButNum3_3.csprojAssemblyReference.cache
+D:\Александр\Repository\ITMO.WinFormS\WinButNum\obj\Debug\WinButNum.Form1.resources
+D:\Александр\Repository\ITMO.WinFormS\WinButNum\obj\Debug\WinButNum.Properties.Resources.resources
+D:\Александр\Repository\ITMO.WinFormS\WinButNum\obj\Debug\ITMO.WinForms.WinButNum3_3.csproj.GenerateResource.cache
+D:\Александр\Repository\ITMO.WinFormS\WinButNum\obj\Debug\ITMO.WinForms.WinButNum3_3.csproj.CoreCompileInputs.cache
+D:\Александр\Repository\ITMO.WinFormS\WinButNum\obj\Debug\WinButNum.exe
+D:\Александр\Repository\ITMO.WinFormS\WinButNum\obj\Debug\WinButNum.pdb

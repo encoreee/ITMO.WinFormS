@@ -19,3 +19,4 @@ C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Lab2_4\obj\Debug\ITMO
 C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Lab2_4\obj\Debug\ITMO.WinForms.Lab2_4.csproj.CoreCompileInputs.cache
 C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Lab2_4\obj\Debug\MdiApplication.exe
 C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Lab2_4\obj\Debug\MdiApplication.pdb
+D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.Lab2_4\obj\Debug\ITMO.WinForms.Lab2_4.csprojAssemblyReference.cache
