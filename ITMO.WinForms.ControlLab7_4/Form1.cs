@@ -13,7 +13,7 @@ namespace ITMO.WinForms.WinAsynchMethod7_3
 {
     public partial class Form1 : Form
     {
-        String str;
+       
 
         public Form1()
         {

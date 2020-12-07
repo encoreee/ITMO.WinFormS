@@ -56,6 +56,7 @@ namespace ITMO.WinForms.EditPerson_4_2
             this.personsListView.UseCompatibleStateImageBehavior = false;
             this.personsListView.View = System.Windows.Forms.View.Details;
             this.personsListView.VirtualMode = true;
+            this.personsListView.RetrieveVirtualItem += new System.Windows.Forms.RetrieveVirtualItemEventHandler(this.personsListView_RetrieveVirtualItem);
             // 
             // Name
             // 
@@ -120,11 +121,13 @@ namespace ITMO.WinForms.EditPerson_4_2
             this.Controls.Add(this.button1);
             this.Controls.Add(this.personsListView);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
-        //    this.Name = "MainForm";
+       //    this.Name = "MainForm";
             this.Text = "Empleye list";
             this.WindowState = System.Windows.Forms.FormWindowState.Minimized;
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.MainForm_FormClosed);
+            this.Load += new System.EventHandler(this.MainForm_Load);
+           
             this.ResumeLayout(false);
-            personsListView.RetrieveVirtualItem += new RetrieveVirtualItemEventHandler(personsListView_RetrieveVirtualItem);
 
         }
 
