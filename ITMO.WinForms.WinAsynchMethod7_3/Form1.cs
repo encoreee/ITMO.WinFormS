@@ -102,6 +102,16 @@ namespace ITMO.WinForms.WinAsynchMethod7_3
             MessageBox.Show(res.ToString(), "Результат операции");
         }
 
-       
+        
+
+        private void txbA_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Help.ShowHelp(this, helpProvider1.HelpNamespace);
+        }
     }
 }
