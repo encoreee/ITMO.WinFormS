@@ -1,0 +1,10 @@
+D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.WinAsynchMethod7_3\bin\Debug\ITMO.WinForms.WinAsynchMethod7_3.exe.config
+D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.WinAsynchMethod7_3\bin\Debug\ITMO.WinForms.WinAsynchMethod7_3.exe
+D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.WinAsynchMethod7_3\bin\Debug\ITMO.WinForms.WinAsynchMethod7_3.pdb
+D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.WinAsynchMethod7_3\obj\Debug\ITMO.WinForms.WinAsynchMethod7_3.csprojAssemblyReference.cache
+D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.WinAsynchMethod7_3\obj\Debug\ITMO.WinForms.WinAsynchMethod7_3.Form1.resources
+D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.WinAsynchMethod7_3\obj\Debug\ITMO.WinForms.WinAsynchMethod7_3.Properties.Resources.resources
+D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.WinAsynchMethod7_3\obj\Debug\ITMO.WinForms.WinAsynchMethod7_3.csproj.GenerateResource.cache
+D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.WinAsynchMethod7_3\obj\Debug\ITMO.WinForms.WinAsynchMethod7_3.csproj.CoreCompileInputs.cache
+D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.WinAsynchMethod7_3\obj\Debug\ITMO.WinForms.WinAsynchMethod7_3.exe
+D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.WinAsynchMethod7_3\obj\Debug\ITMO.WinForms.WinAsynchMethod7_3.pdb

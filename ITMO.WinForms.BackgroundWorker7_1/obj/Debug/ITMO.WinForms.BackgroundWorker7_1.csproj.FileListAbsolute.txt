@@ -8,3 +8,13 @@ D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.BackgroundWorker7_1
 D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.BackgroundWorker7_1\obj\Debug\ITMO.WinForms.BackgroundWorker7_1.csproj.CoreCompileInputs.cache
 D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.BackgroundWorker7_1\obj\Debug\ITMO.WinForms.BackgroundWorker7_1.exe
 D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.BackgroundWorker7_1\obj\Debug\ITMO.WinForms.BackgroundWorker7_1.pdb
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.BackgroundWorker7_1\bin\Debug\ITMO.WinForms.BackgroundWorker7_1.exe.config
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.BackgroundWorker7_1\bin\Debug\ITMO.WinForms.BackgroundWorker7_1.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.BackgroundWorker7_1\bin\Debug\ITMO.WinForms.BackgroundWorker7_1.pdb
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.BackgroundWorker7_1\obj\Debug\ITMO.WinForms.BackgroundWorker7_1.csprojAssemblyReference.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.BackgroundWorker7_1\obj\Debug\ITMO.WinForms.BackgroundWorker7_1.Form1.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.BackgroundWorker7_1\obj\Debug\ITMO.WinForms.BackgroundWorker7_1.Properties.Resources.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.BackgroundWorker7_1\obj\Debug\ITMO.WinForms.BackgroundWorker7_1.csproj.GenerateResource.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.BackgroundWorker7_1\obj\Debug\ITMO.WinForms.BackgroundWorker7_1.csproj.CoreCompileInputs.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.BackgroundWorker7_1\obj\Debug\ITMO.WinForms.BackgroundWorker7_1.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.BackgroundWorker7_1\obj\Debug\ITMO.WinForms.BackgroundWorker7_1.pdb

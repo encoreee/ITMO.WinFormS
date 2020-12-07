@@ -8,3 +8,13 @@ D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.WinAsynchDelegate7_
 D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.WinAsynchDelegate7_2\obj\Debug\ITMO.WinForms.WinAsynchDelegate7_2.exe
 D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.WinAsynchDelegate7_2\obj\Debug\ITMO.WinForms.WinAsynchDelegate7_2.pdb
 D:\Александр\Repository\ITMO.WinForms\ITMO.WinForms.WinAsynchDelegate7_2\obj\Debug\ITMO.WinForms.WinAsynchDelegate7_2.Form1.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinAsynchDelegate7_2\bin\Debug\ITMO.WinForms.WinAsynchDelegate7_2.exe.config
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinAsynchDelegate7_2\bin\Debug\ITMO.WinForms.WinAsynchDelegate7_2.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinAsynchDelegate7_2\bin\Debug\ITMO.WinForms.WinAsynchDelegate7_2.pdb
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinAsynchDelegate7_2\obj\Debug\ITMO.WinForms.WinAsynchDelegate7_2.csprojAssemblyReference.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinAsynchDelegate7_2\obj\Debug\ITMO.WinForms.WinAsynchDelegate7_2.Form1.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinAsynchDelegate7_2\obj\Debug\ITMO.WinForms.WinAsynchDelegate7_2.Properties.Resources.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinAsynchDelegate7_2\obj\Debug\ITMO.WinForms.WinAsynchDelegate7_2.csproj.GenerateResource.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinAsynchDelegate7_2\obj\Debug\ITMO.WinForms.WinAsynchDelegate7_2.csproj.CoreCompileInputs.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinAsynchDelegate7_2\obj\Debug\ITMO.WinForms.WinAsynchDelegate7_2.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WinAsynchDelegate7_2\obj\Debug\ITMO.WinForms.WinAsynchDelegate7_2.pdb

@@ -8,3 +8,13 @@ D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.WindowsFormsChart6_
 D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.WindowsFormsChart6_3\obj\Debug\ITMO.WinForms.WindowsFormsChart6_3.csproj.CoreCompileInputs.cache
 D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.WindowsFormsChart6_3\obj\Debug\ITMO.WinForms.WindowsFormsChart6_3.exe
 D:\Александр\Repository\ITMO.WinFormS\ITMO.WinForms.WindowsFormsChart6_3\obj\Debug\ITMO.WinForms.WindowsFormsChart6_3.pdb
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WindowsFormsChart6_3\bin\Debug\ITMO.WinForms.WindowsFormsChart6_3.exe.config
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WindowsFormsChart6_3\bin\Debug\ITMO.WinForms.WindowsFormsChart6_3.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WindowsFormsChart6_3\bin\Debug\ITMO.WinForms.WindowsFormsChart6_3.pdb
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WindowsFormsChart6_3\obj\Debug\ITMO.WinForms.WindowsFormsChart6_3.csprojAssemblyReference.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WindowsFormsChart6_3\obj\Debug\ITMO.WinForms.WindowsFormsChart6_3.Form1.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WindowsFormsChart6_3\obj\Debug\ITMO.WinForms.WindowsFormsChart6_3.Properties.Resources.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WindowsFormsChart6_3\obj\Debug\ITMO.WinForms.WindowsFormsChart6_3.csproj.GenerateResource.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WindowsFormsChart6_3\obj\Debug\ITMO.WinForms.WindowsFormsChart6_3.csproj.CoreCompileInputs.cache
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WindowsFormsChart6_3\obj\Debug\ITMO.WinForms.WindowsFormsChart6_3.exe
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.WindowsFormsChart6_3\obj\Debug\ITMO.WinForms.WindowsFormsChart6_3.pdb
