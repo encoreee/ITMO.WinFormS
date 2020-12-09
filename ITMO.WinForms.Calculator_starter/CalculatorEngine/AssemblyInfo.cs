@@ -27,7 +27,7 @@ using System.Runtime.CompilerServices;
 // by using the '*' as shown below:
 
 // TODO: Change the AssemblyVersion attribute to 3.0.1.1.
-[assembly: AssemblyVersion("2.0.1.1")]
+[assembly: AssemblyVersion("5.0.1.1")]
 
 //
 // In order to sign your assembly you must specify a key to use. Refer to the 
@@ -55,5 +55,5 @@ using System.Runtime.CompilerServices;
 //       documentation for more information on this.
 //
 [assembly: AssemblyDelaySign(false)]
-[assembly: AssemblyKeyName("")]
+[assembly: AssemblyKeyFile("CalcKey.snk")]
 // TODO: Add the AssemblyKeyFile attribute to reference the strong name key pair file.

@@ -25,7 +25,7 @@ namespace Calculator
 
 		private static double negativeConverter = -1;
 		// TODO: Upgrade the version number to 3.0.1.1
-		private static string versionInfo = "Calculator v2.0.1.1";
+		private static string versionInfo = "Calculator v4.0.1.1";
 
 		//
 		// Module-level Variables.

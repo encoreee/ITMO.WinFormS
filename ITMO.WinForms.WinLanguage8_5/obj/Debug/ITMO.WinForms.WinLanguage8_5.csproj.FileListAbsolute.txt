@@ -1,0 +1,16 @@
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.WinLanguage8_5\bin\Debug\ITMO.WinForms.WinLanguage8_5.exe.config
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.WinLanguage8_5\bin\Debug\ITMO.WinForms.WinLanguage8_5.exe
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.WinLanguage8_5\bin\Debug\ITMO.WinForms.WinLanguage8_5.pdb
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.WinLanguage8_5\bin\Debug\asa-TZ\ITMO.WinForms.WinLanguage8_5.resources.dll
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.WinLanguage8_5\bin\Debug\ru-RU\ITMO.WinForms.WinLanguage8_5.resources.dll
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.WinLanguage8_5\obj\Debug\ITMO.WinForms.WinLanguage8_5.csprojAssemblyReference.cache
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.WinLanguage8_5\obj\Debug\ITMO.WinForms.WinLanguage8_5.Form1.resources
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.WinLanguage8_5\obj\Debug\ITMO.WinForms.WinLanguage8_5.Properties.Resources.resources
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.WinLanguage8_5\obj\Debug\ITMO.WinForms.WinLanguage8_5.Form1.asa-TZ.resources
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.WinLanguage8_5\obj\Debug\ITMO.WinForms.WinLanguage8_5.Form1.ru-RU.resources
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.WinLanguage8_5\obj\Debug\ITMO.WinForms.WinLanguage8_5.csproj.GenerateResource.cache
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.WinLanguage8_5\obj\Debug\ITMO.WinForms.WinLanguage8_5.csproj.CoreCompileInputs.cache
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.WinLanguage8_5\obj\Debug\asa-TZ\ITMO.WinForms.WinLanguage8_5.resources.dll
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.WinLanguage8_5\obj\Debug\ru-RU\ITMO.WinForms.WinLanguage8_5.resources.dll
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.WinLanguage8_5\obj\Debug\ITMO.WinForms.WinLanguage8_5.exe
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.WinLanguage8_5\obj\Debug\ITMO.WinForms.WinLanguage8_5.pdb

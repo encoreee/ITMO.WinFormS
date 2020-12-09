@@ -9,3 +9,16 @@ C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\bin\Debug\Ca
 C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\obj\Debug\WindowsCalculator.csproj.CopyComplete
 C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\obj\Debug\WindowsCalculator.exe
 C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\obj\Debug\WindowsCalculator.pdb
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.Calculator_starter\bin\Debug\WindowsCalculator.exe.config
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.Calculator_starter\bin\Debug\WindowsCalculator.exe
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.Calculator_starter\bin\Debug\WindowsCalculator.pdb
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.Calculator_starter\obj\Debug\WindowsCalculator.csprojAssemblyReference.cache
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.Calculator_starter\obj\Debug\SimpleCalculator.CalcUI.resources
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.Calculator_starter\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.Calculator_starter\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.Calculator_starter\obj\Debug\WindowsCalculator.exe
+C:\Users\RaikovAN\Source\Repos\ITMO.WinFormS\ITMO.WinForms.Calculator_starter\obj\Debug\WindowsCalculator.pdb
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Calculator_starter\bin\Debug\WindowsCalculator.exe.manifest
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Calculator_starter\bin\Debug\WindowsCalculator.application
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Calculator_starter\obj\Debug\WindowsCalculator.exe.manifest
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.WinForms.Calculator_starter\obj\Debug\WindowsCalculator.application
