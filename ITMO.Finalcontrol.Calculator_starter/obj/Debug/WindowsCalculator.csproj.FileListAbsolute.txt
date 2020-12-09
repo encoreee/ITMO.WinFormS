@@ -20,3 +20,15 @@ C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starte
 C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\obj\Debug\WindowsCalculator.csproj.CopyComplete
 C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\obj\Debug\WindowsCalculator.exe
 C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\obj\Debug\WindowsCalculator.pdb
+D:\Александр\Repository\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\bin\Debug\WindowsCalculator.exe.config
+D:\Александр\Repository\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\bin\Debug\WindowsCalculator.exe
+D:\Александр\Repository\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\bin\Debug\WindowsCalculator.pdb
+D:\Александр\Repository\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\bin\Debug\CalculatorEngine.dll
+D:\Александр\Repository\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\bin\Debug\CalculatorEngine.pdb
+D:\Александр\Repository\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\obj\Debug\WindowsCalculator.csprojAssemblyReference.cache
+D:\Александр\Repository\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\obj\Debug\SimpleCalculator.CalcUI.resources
+D:\Александр\Repository\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+D:\Александр\Repository\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+D:\Александр\Repository\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\obj\Debug\WindowsCalculator.csproj.CopyComplete
+D:\Александр\Repository\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\obj\Debug\WindowsCalculator.exe
+D:\Александр\Repository\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\obj\Debug\WindowsCalculator.pdb

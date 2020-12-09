@@ -3,199 +3,244 @@ using System.Reflection;
 namespace Calculator
 {
 
-	using System;
+    using System;
 
-	public class CalcEngine
-	{
-		//
-		// Operation Constants.
-		//
-		public enum Operator:int
-		{
-			eUnknown = 0,
-			eAdd = 1,
-			eSubtract = 2,
-			eMultiply = 3,
-			eDivide = 4
-		}
+    public class CalcEngine
+    {
+        //
+        // Operation Constants.
+        //
+        public enum Operator : int
+        {
+            eUnknown = 0,
+            eAdd = 1,
+            eSubtract = 2,
+            eMultiply = 3,
+            eDivide = 4,
+            eExponentiation = 5,
+            eSqrt = 6,
+            eInv = 7,
+            eSquar = 8
+        }
 
-		//
-		// Module-Level Constants
-		//
+        //
+        // Module-Level Constants
+        //
 
-		private static double negativeConverter = -1;
-		// TODO: Upgrade the version number to 3.0.1.1
-		private static string versionInfo = "Calculator v3.0.1.1";
+        private static double negativeConverter = -1;
+        // TODO: Upgrade the version number to 3.0.1.1
+        private static string versionInfo = "Calculator v3.0.1.1";
 
-		//
-		// Module-level Variables.
-		//
-	
-		private static double numericAnswer;
-		private static string stringAnswer;
-		private static Operator calcOperation;
-		private static double firstNumber;
-		private static double secondNumber;
-		private static bool secondNumberAdded;
-		private static bool decimalAdded;
- 
-		//
-		// Class Constructor.
-		//
+        //
+        // Module-level Variables.
+        //
 
-		public CalcEngine ()
-		{
-			decimalAdded = false;
-			secondNumberAdded = false;
-		}
+        private static double numericAnswer;
+        private static string stringAnswer;
+        private static Operator calcOperation;
+        private static double firstNumber;
+        private static double secondNumber;
+        private static bool secondNumberAdded;
+        private static bool decimalAdded;
 
-		//
-		// Returns the custom version string to the caller.
-		//
+        //
+        // Class Constructor.
+        //
 
-		public static string GetVersion ()
-		{
-			return (versionInfo);
-		}
-		//
-		// Called when the Date key is pressed.
-		//
+        public CalcEngine()
+        {
+            decimalAdded = false;
+            secondNumberAdded = false;
+        }
 
-		public static string GetDate ()
-		{
-			DateTime curDate = new DateTime();
-			curDate = DateTime.Now;
+        //
+        // Returns the custom version string to the caller.
+        //
 
-			stringAnswer = String.Concat (curDate.ToShortDateString(), " ", curDate.ToLongTimeString());
+        public static string GetVersion()
+        {
+            return (versionInfo);
+        }
+        //
+        // Called when the Date key is pressed.
+        //
 
-			return (stringAnswer);
-		}
+        public static string GetDate()
+        {
+            DateTime curDate = new DateTime();
+            curDate = DateTime.Now;
 
-		//
-		// Called when a number key is pressed on the keypad.
-		//
+            stringAnswer = String.Concat(curDate.ToShortDateString(), " ", curDate.ToLongTimeString());
 
-		public static string CalcNumber (string KeyNumber)
-		{
-			stringAnswer = stringAnswer + KeyNumber;
-			return (stringAnswer);
-		}
+            return (stringAnswer);
+        }
 
-		//
-		// Called when an operator is selected (+, -, *, /)
-		//
+        //
+        // Called when a number key is pressed on the keypad.
+        //
 
-		public static void CalcOperation (Operator calcOper)
-		{
-			if (stringAnswer != "" && !secondNumberAdded)
-			{
-				firstNumber = System.Convert.ToDouble (stringAnswer);
-				calcOperation = calcOper;
-				stringAnswer = "";
-				decimalAdded = false;
-			}			
-		}
+        public static string CalcNumber(string KeyNumber)
+        {
+            stringAnswer = stringAnswer + KeyNumber;
+            return (stringAnswer);
+        }
 
-		//
-		// Called when the +/- key is pressed.
-		//
+        //
+        // Called when an operator is selected (+, -, *, /,exp)
+        //
 
-		public static string CalcSign ()
-		{
-			double numHold;
+        public static void CalcOperation(Operator calcOper)
+        {
+            if (stringAnswer != "" && !secondNumberAdded)
+            {
+                firstNumber = System.Convert.ToDouble(stringAnswer);
+                calcOperation = calcOper;
+                stringAnswer = "";
+                decimalAdded = false;
+            }
+        }
 
-			if (stringAnswer != "")
-			{
-				numHold = System.Convert.ToDouble (stringAnswer);
-				stringAnswer = System.Convert.ToString(numHold * negativeConverter);
-			}
-		
-			return (stringAnswer);
-		}
+        //
+        // Called when an operator is selected (sqrt, squar, inv)
+        //
 
-		//
-		// Called when the . key is pressed.
-		//
+        public static void CalcUnOperation(Operator calcOper)
+        {
+            if (stringAnswer != "")
+            {
+                firstNumber = System.Convert.ToDouble(stringAnswer);
+                calcOperation = calcOper;
+                decimalAdded = false;
+                CalcEqual();
+            }
+        }
 
-		public static string CalcDecimal ()
-		{
-			if (!decimalAdded && !secondNumberAdded)
-			{
-				if (stringAnswer != "")
-					stringAnswer = stringAnswer + ".";
-				else
-					stringAnswer = "0.";
+        //
+        // Called when the +/- key is pressed.
+        //
 
-				decimalAdded = true;
-			}
+        public static string CalcSign()
+        {
+            double numHold;
 
-			return (stringAnswer);
-		}
+            if (stringAnswer != "")
+            {
+                numHold = System.Convert.ToDouble(stringAnswer);
+                stringAnswer = System.Convert.ToString(numHold * negativeConverter);
+            }
 
-		//
-		// Called when = is pressed.
-		//
+            return (stringAnswer);
+        }
 
-		public static string CalcEqual ()
-		{
-			bool validEquation = false;
+        //
+        // Called when the . key is pressed.
+        //
 
-			if (stringAnswer != "")
-			{
-				secondNumber = System.Convert.ToDouble (stringAnswer);
-				secondNumberAdded = true;
+        public static string CalcDecimal()
+        {
+            if (!decimalAdded && !secondNumberAdded)
+            {
+                if (stringAnswer != "")
+                    stringAnswer = stringAnswer + ".";
+                else
+                    stringAnswer = "0.";
 
-				switch (calcOperation)
-				{
-					case Operator.eUnknown:
-						validEquation = false;
-						break;
+                decimalAdded = true;
+            }
 
-					case Operator.eAdd:
-						numericAnswer = firstNumber + secondNumber;
-						validEquation = true;
-						break;
+            return (stringAnswer);
+        }
 
-					case Operator.eSubtract:
-						numericAnswer = firstNumber - secondNumber;
-						validEquation = true;
-						break;
+        //
+        // Called when = is pressed.
+        //
 
-					case Operator.eMultiply:
-						numericAnswer = firstNumber * secondNumber;
-						validEquation = true;
-						break;
+        public static string CalcEqual()
+        {
+            bool validEquation = false;
 
-					case Operator.eDivide:
-						numericAnswer = firstNumber / secondNumber;
-						validEquation = true;
-						break;
+            if (stringAnswer != "")
+            {
+                secondNumber = System.Convert.ToDouble(stringAnswer);
+                secondNumberAdded = true;
 
-					default:
-						validEquation = false;
-						break;
-				}
+                switch (calcOperation)
+                {
+                    case Operator.eUnknown:
+                        validEquation = false;
+                        break;
 
-				if (validEquation)
-					stringAnswer = System.Convert.ToString (numericAnswer);
-			}
-			
-			return (stringAnswer);
-		}
+                    case Operator.eAdd:
+                        numericAnswer = firstNumber + secondNumber;
+                        validEquation = true;
+                        break;
 
-		//
-		// Resets the various module-level variables for the next calculation.
-		//
+                    case Operator.eSubtract:
+                        numericAnswer = firstNumber - secondNumber;
+                        validEquation = true;
+                        break;
 
-		public static void CalcReset ()
-		{
-			numericAnswer = 0;
-			firstNumber = 0;
-			secondNumber = 0;
-			stringAnswer = "";
-			calcOperation = Operator.eUnknown;
-			decimalAdded = false;
-			secondNumberAdded = false;			
-		}
-	}
+                    case Operator.eMultiply:
+                        numericAnswer = firstNumber * secondNumber;
+                        validEquation = true;
+                        break;
+
+                    case Operator.eDivide:
+                        numericAnswer = firstNumber / secondNumber;
+                        validEquation = true;
+                        break;
+
+                    case Operator.eExponentiation:
+
+                        numericAnswer = firstNumber;
+                        for (int i = 1; i < secondNumber; i++)
+                        {
+                            numericAnswer *= firstNumber;
+                        }
+                        validEquation = true;
+                        break;
+
+                    case Operator.eSqrt:
+                        numericAnswer = Math.Sqrt(firstNumber);
+                        validEquation = true;
+                        break;
+
+                    case Operator.eInv:
+                        numericAnswer = 1 / firstNumber;
+                        validEquation = true;
+                        break;
+
+                    case Operator.eSquar:
+                        numericAnswer = firstNumber * firstNumber;
+                        validEquation = true;
+                        break;
+
+
+                    default:
+                        validEquation = false;
+                        break;
+                }
+
+                if (validEquation)
+                    stringAnswer = System.Convert.ToString(numericAnswer);
+            }
+
+            return (stringAnswer);
+        }
+
+        //
+        // Resets the various module-level variables for the next calculation.
+        //
+
+        public static void CalcReset()
+        {
+            numericAnswer = 0;
+            firstNumber = 0;
+            secondNumber = 0;
+            stringAnswer = "";
+            calcOperation = Operator.eUnknown;
+            decimalAdded = false;
+            secondNumberAdded = false;
+        }
+    }
 }
