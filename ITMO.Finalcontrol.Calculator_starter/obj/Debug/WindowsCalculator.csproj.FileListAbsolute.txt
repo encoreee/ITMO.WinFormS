@@ -32,3 +32,6 @@ D:\Александр\Repository\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_star
 D:\Александр\Repository\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\obj\Debug\WindowsCalculator.csproj.CopyComplete
 D:\Александр\Repository\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\obj\Debug\WindowsCalculator.exe
 D:\Александр\Repository\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\obj\Debug\WindowsCalculator.pdb
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\bin\Debug\WindowsCalculator.exe.config
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\obj\Debug\SimpleCalculator.CalcRoots.resources
+C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\obj\Debug\SimpleCalculator.Result.resources

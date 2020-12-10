@@ -1,0 +1,12 @@
+S:\Labs\Lab04\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+S:\Labs\Lab04\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+S:\Labs\Lab04\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Labs\Lab04\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.exe
+S:\Labs\Lab04\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.pdb
+\\CTEC\Bachelor\b2014\ПоповаЕкатерина\Labs\Lab04\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.exe
+\\CTEC\Bachelor\b2014\ПоповаЕкатерина\Labs\Lab04\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.pdb
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for_Технология программирования\Labs_\Lab04\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.exe
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for_Технология программирования\Labs_\Lab04\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.pdb
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for_Технология программирования\Labs_\Lab04\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for_Технология программирования\Labs_\Lab04\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for_Технология программирования\Labs_\Lab04\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ResolveAssemblyReference.cache

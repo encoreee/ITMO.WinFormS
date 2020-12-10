@@ -1,0 +1,12 @@
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for_Технология программирования\Labs_\Lab04\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for_Технология программирования\Labs_\Lab04\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for_Технология программирования\Labs_\Lab04\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for_Технология программирования\Labs_\Lab04\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.exe
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for_Технология программирования\Labs_\Lab04\ConsoleApplication5\ConsoleApplication5\obj\x86\Debug\ConsoleApplication5.pdb
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for_Технология программирования\Labs_\Lab04\DemoUr2\DemoUr2\obj\x86\Debug\ConsoleApplication5.exe
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for_Технология программирования\Labs_\Lab04\DemoUr2\DemoUr2\obj\x86\Debug\ConsoleApplication5.pdb
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for_Технология программирования\Labs_\Lab04\DemoUr2\DemoUr2\bin\Debug\ConsoleApplication5.exe
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for_Технология программирования\Labs_\Lab04\DemoUr2\DemoUr2\bin\Debug\ConsoleApplication5.pdb
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for_Технология программирования\Labs_\Lab04\DemoUr2\DemoUr2\obj\x86\Debug\ResolveAssemblyReference.cache
+\\atec\student\Work\C# 2010_O\C#2014\WindowsForm\Задания по курсу С#_Windows\DemoUr2\DemoUr2\obj\x86\Debug\ConsoleApplication5.exe
+\\atec\student\Work\C# 2010_O\C#2014\WindowsForm\Задания по курсу С#_Windows\DemoUr2\DemoUr2\obj\x86\Debug\ConsoleApplication5.pdb

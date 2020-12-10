@@ -97,8 +97,27 @@
     <Compile Include="CalcUI.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="CalcRoots.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalcRoots.Designer.cs">
+      <DependentUpon>CalcRoots.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Result.Designer.cs">
+      <DependentUpon>Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ur2.cs" />
     <EmbeddedResource Include="CalcUI.resx">
       <DependentUpon>CalcUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalcRoots.resx">
+      <DependentUpon>CalcRoots.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Result.resx">
+      <DependentUpon>Result.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

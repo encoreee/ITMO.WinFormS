@@ -1,12 +1,15 @@
 using System.Reflection;
+using System;
+using System.Globalization;
 
 namespace Calculator
 {
 
-    using System;
+
 
     public class CalcEngine
     {
+        static IFormatProvider formatter = new NumberFormatInfo { NumberDecimalSeparator = "." };
         //
         // Operation Constants.
         //
@@ -20,7 +23,9 @@ namespace Calculator
             eExponentiation = 5,
             eSqrt = 6,
             eInv = 7,
-            eSquar = 8
+            eSquar = 8,
+            eFact = 9,
+            eSqrtKub = 10
         }
 
         //
@@ -93,7 +98,7 @@ namespace Calculator
         {
             if (stringAnswer != "" && !secondNumberAdded)
             {
-                firstNumber = System.Convert.ToDouble(stringAnswer);
+                firstNumber = double.Parse(stringAnswer, formatter);
                 calcOperation = calcOper;
                 stringAnswer = "";
                 decimalAdded = false;
@@ -108,7 +113,7 @@ namespace Calculator
         {
             if (stringAnswer != "")
             {
-                firstNumber = System.Convert.ToDouble(stringAnswer);
+                firstNumber = double.Parse(stringAnswer, formatter);
                 calcOperation = calcOper;
                 decimalAdded = false;
                 CalcEqual();
@@ -125,7 +130,7 @@ namespace Calculator
 
             if (stringAnswer != "")
             {
-                numHold = System.Convert.ToDouble(stringAnswer);
+                numHold = double.Parse(stringAnswer, formatter);
                 stringAnswer = System.Convert.ToString(numHold * negativeConverter);
             }
 
@@ -161,7 +166,7 @@ namespace Calculator
 
             if (stringAnswer != "")
             {
-                secondNumber = System.Convert.ToDouble(stringAnswer);
+                secondNumber = double.Parse(stringAnswer, formatter); ;
                 secondNumberAdded = true;
 
                 switch (calcOperation)
@@ -205,6 +210,12 @@ namespace Calculator
                         validEquation = true;
                         break;
 
+                    case Operator.eSqrtKub:
+                        numericAnswer = Math.Pow(firstNumber,1/3f) ;
+                        validEquation = true;
+                        break;
+
+
                     case Operator.eInv:
                         numericAnswer = 1 / firstNumber;
                         validEquation = true;
@@ -212,6 +223,11 @@ namespace Calculator
 
                     case Operator.eSquar:
                         numericAnswer = firstNumber * firstNumber;
+                        validEquation = true;
+                        break;
+
+                    case Operator.eFact:
+                        numericAnswer = ((int)firstNumber == 0) ? 1 : (int)firstNumber * fact((int)firstNumber - 1); ;
                         validEquation = true;
                         break;
 
@@ -241,6 +257,10 @@ namespace Calculator
             calcOperation = Operator.eUnknown;
             decimalAdded = false;
             secondNumberAdded = false;
+        }
+        static int fact(int num)
+        {
+            return (num == 0) ? 1 : num * fact(num - 1);
         }
     }
 }
