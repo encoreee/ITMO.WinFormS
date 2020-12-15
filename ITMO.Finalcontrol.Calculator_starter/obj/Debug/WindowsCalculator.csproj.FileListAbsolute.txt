@@ -35,3 +35,5 @@ D:\Александр\Repository\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_star
 C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\bin\Debug\WindowsCalculator.exe.config
 C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\obj\Debug\SimpleCalculator.CalcRoots.resources
 C:\Users\RaikovAN\source\repos\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\obj\Debug\SimpleCalculator.Result.resources
+D:\Александр\Repository\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\obj\Debug\SimpleCalculator.CalcRoots.resources
+D:\Александр\Repository\ITMO.WinFormS\ITMO.Finalcontrol.Calculator_starter\obj\Debug\SimpleCalculator.Result.resources
