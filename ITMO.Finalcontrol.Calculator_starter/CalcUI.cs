@@ -1006,18 +1006,17 @@ namespace SimpleCalculator
 
 
 
-                tableLayoutPanel1.Controls.Add(this.KeyExponet, -1, -1);
-                tableLayoutPanel1.Controls.Add(this.KeyExponet, -1, -1);
-                tableLayoutPanel1.Controls.Add(this.KeySqrt, -1, -1);
-                tableLayoutPanel1.Controls.Add(this.KeyInv, -1, -1);
-                tableLayoutPanel1.Controls.Add(this.KeySquar, -1, -1);
-                tableLayoutPanel1.Controls.Add(this.KeyFact, -1, -1);
 
-                tableLayoutPanel1.Controls.Add(this.KeySqrtKub, -1, -1);
+                tableLayoutPanel1.Controls.Remove(this.KeyExponet);
+                tableLayoutPanel1.Controls.Remove(this.KeySqrt);
+                tableLayoutPanel1.Controls.Remove(this.KeyInv);
+                tableLayoutPanel1.Controls.Remove(this.KeySquar);
+                tableLayoutPanel1.Controls.Remove(this.KeyFact);
 
-                tableLayoutPanel1.Controls.Add(this.KeyBGFact, -1, -1);
-                tableLayoutPanel1.SetColumnSpan(this.KeyBGFact, 4);
-                this.KeyBGFact.Size = new System.Drawing.Size(tableLayoutPanel1.Width / 5 * 4, this.KeyZero.Size.Height);
+                tableLayoutPanel1.Controls.Remove(this.KeySqrtKub);
+
+                tableLayoutPanel1.Controls.Remove(this.KeyBGFact);
+
 
                 for (int i = 0; i < 2; i++)
                 {
